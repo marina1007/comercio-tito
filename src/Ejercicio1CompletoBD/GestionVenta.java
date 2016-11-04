@@ -1,3 +1,4 @@
+//Archivo principal de la aplicacion
 package Ejercicio1CompletoBD;
 
 import java.awt.BorderLayout;
