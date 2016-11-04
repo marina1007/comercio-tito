@@ -39,6 +39,7 @@ public class AbmArticulo extends JInternalFrame {
 	 * Create the frame.
 	 * @return 
 	 */
+	//Este es el constructor por defecto
 	public AbmArticulo() {
 		setTitle("Articulo");
 		setBounds(100, 100, 450, 300);
